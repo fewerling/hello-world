@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hell, this is Fernanda. I am very excited to learn more about GitHub.
+
+Bye
